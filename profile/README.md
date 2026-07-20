@@ -10,7 +10,7 @@
 
 **Purpose-built tools for working creatives.**
 
-Precision software & hardware for audio, video, and light.
+Software & hardware for audio, video, and light.
 
 [sheidesigns.com](https://sheidesigns.com) · [projects](https://sheidesigns.com/projects) · [updates](https://sheidesigns.com/updates) · [docs](https://sheidesigns.com/docs)
 
