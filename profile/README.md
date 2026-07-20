@@ -18,7 +18,7 @@ Precision software & hardware for audio, video, and light.
 
 ---
 
-Shei Designs builds focused tools for live performance and creative work — instruments, utilities, and hardware.
+Shei Designs builds tools for live performance and creative work — instruments, utilities, and hardware.
 
 This GitHub is dedicated to Shei Designs&rsquo; open-source projects. Each product has its own repository and license — browse the source, grab a release, or open an issue right here.
 
