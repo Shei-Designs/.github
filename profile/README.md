@@ -18,11 +18,11 @@ Precision software & hardware for audio, video, and light.
 
 ---
 
-Shei Designs builds focused tools for live performance and studio work — instruments, utilities, and hardware that do one job precisely and sit well next to the rest of your rig (Ableton, QLab, Resolume, …).
+Shei Designs builds focused tools for live performance and creative work — instruments, utilities, and hardware.
 
-This organization is home to the open-source projects — one repository per product, each under its own license. Every repo links back to its product page.
+This GitHub is dedicated to Shei Designs&rsquo; open-source projects. Each product has its own repository and license — browse the source, grab a release, or open an issue right here.
 
-The product pages on [sheidesigns.com](https://sheidesigns.com/projects) are the source of truth for current **status · version · platforms · license** — start there before building from source.
+For everything else — the full project catalog, documentation, and news — head to [sheidesigns.com](https://sheidesigns.com).
 
 <div align="center">
 
